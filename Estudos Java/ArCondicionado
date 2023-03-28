@@ -1,0 +1,30 @@
+public class ArCondicionado{
+    private int temperatura;
+    private int velocidade;
+    public ArCondicionado(int temperatura, inte velocidade){
+        this.temperatura = temperatura;
+        this.velocidade = velocidade;
+    }
+    public int getTemperatura() { return temperatura;}
+    public boolean setTemperatura(int temperatura) {
+        if (temperatura <= 30 && temperatura >=16 && temperatura != this.temperatura){
+            this.temperatura = temperatura;
+            return true;
+        }
+        return false;
+    }
+    public int getVelocidade() {return velocidade;}
+    public boolean setVelocidade(int velocidade){
+        if( velocidade <= 3 && velocidade >=1 && velocidade!= this.velocidade ){
+            this.velocidade = velocidade;
+            return true;
+        }
+        return false;
+    }
+    @Override
+    public String toString(){
+        return String.format("Temperatura: %d / Velocidade: %d", temperatura, velocidade);
+    }
+
+
+}

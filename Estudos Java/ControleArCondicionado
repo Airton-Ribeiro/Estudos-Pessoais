@@ -1,0 +1,74 @@
+import java.util.Scanner;
+public class ControleArCondicionado{
+    private ArCondicionado arCondicionado;
+    public ControleArCondicionado(Arcondicionado arCondicionado){
+        this.arCondicionado = arCondicionado
+    }
+    public void aumentartemperatura(){
+        ajustarTemperatura(1);
+    }
+    public void diminuirtemperatura(){
+        ajustarTemperatura(-1);
+    }
+    private void ajustarTemperatura(int valor){
+        if(arCondicionado.setTemperatura(arCondicionado.getTemperatura() + valor)){
+            System.out.println(arCondicionado + " / Status: Temperatura ajustada.");
+        }else{
+            System.out.println(arCondicionado + "/ Status: Temperatura não ajustada.")
+        }
+    }
+    public void aumentarVelocidade(){
+        ajustarVelocidade(1);
+    }
+    public void diminuirVelocidade(){
+        ajustarVelocidade(-1);
+    }
+    private void ajustarVelocidade ( int valor){
+        if(arCondicionado.setTemperatura(arCondicionado.getTemperatura() + valor)){
+            System.out.println(arCondicionado + "/ Status: Velocidade Ajustada.")
+        }else{
+            System.out.println(arCondicionado+ "/ Status: Velocidade não ajustada.")
+        }
+    }
+    public static void main(String[] args){
+        Arcondicionado arCondicionado = new Arcondicionado();
+        System.out.println("\n" + arCondicionado);
+
+        Scanner scanner = new Scanner ( System.in);
+        String opcao;
+        menu:
+        while (true){
+            System.out.println("MENU:\n");
+            System.out.println("T+ para aumentar temperatura.");
+            System.out.println("T- para diminuir temperatura.");
+            System.out.println("V+ para aumentar temperatura.");
+            System.out.println("V- para diminuir temperatura.");
+            System.out.println("D para desligar");
+            ASystem.out.print("\nDigite uma opção:");
+            opcao = scanner.nextLine();
+
+            System.out.println("\n");
+            switch (opcao.toUpperCase()) {
+                case "T+":
+                    controle.aumentarTemperatura();
+                    break;
+                case "T-":
+                    controle.diminuirTemperatura();
+                    break;
+                case  "V+":
+                    controle.aumentarVelocidade();
+                    break;
+                case "V-":
+                    controle.diminuirVelocidade();
+                    break;   
+                case "D":
+                    System.out.println("Ar condicionado desligado. \n");    
+                default:
+                System.out.println("Opção inválida!");
+                    break;
+            }
+            System.out.println("\n");
+        }
+        scanner.close();
+    }
+}

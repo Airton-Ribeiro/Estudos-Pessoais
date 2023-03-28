@@ -1,0 +1,14 @@
+p{
+    font-size: 30px;
+    /*font-style: italic;
+    font-weight: bold;
+    direction: ltr;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    line-height: 25px;*/
+    text-align: left;
+    /*text-decoration: underline;*/
+    /*text-indent: 50px;*/
+    text-shadow: 2px 2px 5px red;
+    text-transform: capitalize;
+}

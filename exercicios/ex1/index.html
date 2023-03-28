@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste IMC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="container" id="container">
+        <h1 class="menu"> Valores IMC</h1>
+            <table id="tabela">
+                <tr>
+                    <th>IMC</th>
+                    <th>Diagnóstico</th>
+                </tr>
+                <tr>
+                    <td>menor que 18,5</td>
+                    <td>baixo peso</td>
+                </tr>
+                <tr>
+                    <td>entre 18,5 e 24,9</td>
+                    <td>intervalo normal</td>
+                </tr>
+                <tr>
+                    <td>entre 25 e 29,9</td>
+                    <td>sobrepeso</td>
+                </tr>
+                <tr>
+                    <td>entre 30 e 34,9</td>
+                    <td>obesidade classe I</td>
+                </tr>
+                <tr>
+                    <td>entre 35 e 39,9</td>
+                    <td>obesidade classe II</td>
+                </tr>
+                <tr>
+                    <td>maior que 40</td>
+                    <td>obesidade classe III</td>
+                </tr>
+            </table>
+        <form id="formulario" class="formulario">
+            <label for="peso">Peso</label>
+            <input type="number" name="peso" id="peso" step="0.01">
+            <label for="altura">Altura</label>
+            <input type="number" name="altura" id="altura" step="0.01" >
+            <input type="submit" value="Avaliar" id="enviar" class="enviar">
+        </form>
+        <div id="resultado" class="resultado"></div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>

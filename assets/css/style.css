@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/assets/imgs/349835.jpg);
+    background-size: 1920px;
+}
+.bloco_menu{
+    background-color: rgba(218, 165, 32, 0.6);
+    height: 70px;
+    width: 100%;
+}
+nav{
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+}
+nav a{
+    color: white;
+    text-transform: uppercase;
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    font-family: sans-serif;
+    margin-left: 25px;
+
+}
+.main_menu{
+    justify-content: center;
+}
+li{
+    font-size: 45px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 450px;
+}

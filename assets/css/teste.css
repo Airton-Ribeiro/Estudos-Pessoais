@@ -1,0 +1,474 @@
+.e14_210 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1789px;
+	position:absolute;
+}
+.e16_33 { 
+	width:1440px;
+	height:288px;
+	position:absolute;
+	left:0px;
+	top:1501px;
+	background-image:url(/assets/imgs/base_final.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e16_34 { 
+	background-color:rgba(31.000000052154064, 44.000001177191734, 54.00000058114529, 1);
+	width:1442px;
+	height:1343px;
+	position:absolute;
+	left:-2px;
+	top:158px;
+	background-image:url(/assets/imgs/base_central.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e114_2 { 
+	background-color:rgba(31.000000052154064, 44.000001177191734, 54.00000058114529, 1);
+	width:1442px;
+	height:1343px;
+	position:absolute;
+	left:-2px;
+	top:158px;
+	background-image:url(/assets/imgs/base_central.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e16_35 { 
+	width:1447px;
+	height:158px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(/assets/imgs/base_frontal.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e16_36 { 
+	background-color:rgba(255, 0, 0, 1);
+	width:138px;
+	height:94px;
+	position:absolute;
+	left:72px;
+	top:32px;
+	border-top-left-radius:26px;
+	border-top-right-radius:26px;
+	border-bottom-left-radius:26px;
+	border-bottom-right-radius:26px;
+}
+.e16_37 { 
+	color:rgba(255, 255, 255, 1);
+	width:105px;
+	height:66px;
+	position:absolute;
+	left:89px;
+	top:48px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e16_40 { 
+	background-color:rgba(255, 0, 0, 1);
+	width:171px;
+	height:45px;
+	position:absolute;
+	left:1043px;
+	top:55px;
+	border-top-left-radius:22.5px;
+	border-top-right-radius:22.5px;
+	border-bottom-left-radius:22.5px;
+	border-bottom-right-radius:22.5px;
+}
+.e16_41 { 
+	color:rgba(255, 255, 255, 1);
+	width:136px;
+	height:33px;
+	position:absolute;
+	left:1061px;
+	top:63px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e16_42 { 
+	background-color:rgba(255, 0, 0, 1);
+	width:125px;
+	height:45px;
+	position:absolute;
+	left:1250px;
+	top:55px;
+	border-top-left-radius:22.5px;
+	border-top-right-radius:22.5px;
+	border-bottom-left-radius:22.5px;
+	border-bottom-right-radius:22.5px;
+}
+.e16_43 { 
+	color:rgba(255, 255, 255, 1);
+	width:62px;
+	height:33px;
+	position:absolute;
+	left:1281px;
+	top:63px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+	text-decoration: none;
+}
+.e16_48 { 
+	width:522px;
+	height:673px;
+	position:absolute;
+	left:475px;
+	top:425px;
+	border-top-left-radius:105px;
+	border-top-right-radius:105px;
+	border-bottom-left-radius:105px;
+	border-bottom-right-radius:105px;
+	background-image:url(/assets/imgs/barra_de_login_.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e16_53 { 
+	color:rgba(255, 255, 255, 1);
+	width:252px;
+	height:73px;
+	position:absolute;
+	left:614px;
+	top:522px;
+	font-family:IBM Plex Sans Devanagari;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e16_49 { 
+	background-color:rgba(255, 0, 0, 1);
+	width:200px;
+	height:60px;
+	position:absolute;
+	left:636px;
+	top:701px;
+	border-top-left-radius:35.5px;
+	border-top-right-radius:35.5px;
+	border-bottom-left-radius:35.5px;
+	border-bottom-right-radius:35.5px;
+}
+.e16_50 { 
+	color:rgba(255, 255, 255, 1);
+	width:151px;
+	height:53px;
+	position:absolute;
+	left:660px;
+	top:706px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e16_51 { 
+	background-color:rgba(255, 0, 0, 1);
+	width:210px;
+	height:60px;
+	position:absolute;
+	left:631px;
+	top:826px;
+	border-top-left-radius:35.5px;
+	border-top-right-radius:35.5px;
+	border-bottom-left-radius:35.5px;
+	border-bottom-right-radius:35.5px;
+}
+.e16_52 { 
+	color:rgba(255, 255, 255, 1);
+	width:167px;
+	height:53px;
+	position:absolute;
+	left:653px;
+	top:831px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e16_44 { 
+	color:rgba(255, 255, 255, 1);
+	width:97px;
+	height:33px;
+	position:absolute;
+	left:52px;
+	top:1559px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e16_45 { 
+	color:rgba(255, 255, 255, 1);
+	width:120px;
+	height:33px;
+	position:absolute;
+	left:52px;
+	top:1606px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e44_14 { 
+	color:rgba(255, 255, 255, 1);
+	width:197px;
+	height:33px;
+	position:absolute;
+	left:52px;
+	top:1649px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e16_46 { 
+	color:rgba(255, 255, 255, 1);
+	width:96px;
+	height:33px;
+	position:absolute;
+	left:365px;
+	top:1559px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e16_47 { 
+	color:rgba(255, 255, 255, 1);
+	width:149px;
+	height:33px;
+	position:absolute;
+	left:365px;
+	top:1606px;
+	font-family:IBM Plex Sans Thai Looped;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+a{
+	text-decoration: none;
+	color:white
+}
+form{
+	font-size: 25px;
+} 
+label{
+	color: red;
+	background-color: white;
+}
+
+.button-18 {
+align-items: center;
+background-color: #0A66C2;
+border: 0;
+border-radius: 100px;
+box-sizing: border-box;
+color: #ffffff;
+cursor: pointer;
+display: inline-flex;
+font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 20px;
+max-width: 480px;
+min-height: 40px;
+min-width: 0px;
+overflow: hidden;
+padding: 0px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+touch-action: manipulation;
+transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+user-select: none;
+-webkit-user-select: none;
+vertical-align: middle;
+}
+
+.button-18:hover,
+.button-18:focus { 
+background-color: #16437E;
+color: #ffffff;
+}
+
+.button-18:active {
+background: #09223b;
+color: rgb(255, 255, 255, .7);
+}
+
+.button-18:disabled { 
+cursor: not-allowed;
+background: rgba(0, 0, 0, .08);
+color: rgba(0, 0, 0, .3);
+}
+.nempresa{
+	align-items: center;
+background-color: #0A66C2;
+border: 0;
+border-radius: 100px;
+box-sizing: border-box;
+color: #ffffff;
+display: inline-flex;
+font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 20px;
+max-width: 480px;
+min-height: 40px;
+min-width: 0px;
+overflow: hidden;
+padding: 0px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+touch-action: manipulation;
+transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+user-select: none;
+-webkit-user-select: none;
+vertical-align: middle;
+}
+.cnpj{
+	align-items: center;
+background-color: #0A66C2;
+border: 0;
+border-radius: 100px;
+box-sizing: border-box;
+color: #ffffff;
+display: inline-flex;
+font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 20px;
+max-width: 480px;
+min-height: 40px;
+min-width: 0px;
+overflow: hidden;
+padding: 0px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+touch-action: manipulation;
+transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+user-select: none;
+-webkit-user-select: none;
+vertical-align: middle;
+}
+.email{
+	align-items: center;
+background-color: #0A66C2;
+border: 0;
+border-radius: 100px;
+box-sizing: border-box;
+color: #ffffff;
+display: inline-flex;
+font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 20px;
+max-width: 480px;
+min-height: 40px;
+min-width: 0px;
+overflow: hidden;
+padding: 0px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+touch-action: manipulation;
+transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+user-select: none;
+-webkit-user-select: none;
+vertical-align: middle;
+}
+.data-registro{
+	align-items: center;
+background-color: #0A66C2;
+border: 0;
+border-radius: 100px;
+box-sizing: border-box;
+color: #ffffff;
+display: inline-flex;
+font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 20px;
+max-width: 480px;
+min-height: 40px;
+min-width: 0px;
+overflow: hidden;
+padding: 0px;
+padding-left: 20px;
+padding-right: 20px;
+text-align: center;
+touch-action: manipulation;
+transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+user-select: none;
+-webkit-user-select: none;
+vertical-align: middle;
+}
+.user {
+	align-items: center;
+	background-color: #0A66C2;
+	border: 0;
+	border-radius: 100px;
+	box-sizing: border-box;
+	color: #ffffff;
+	display: inline-flex;
+	font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	justify-content: center;
+	line-height: 20px;
+	max-width: 480px;
+	min-height: 40px;
+	min-width: 0px;
+	overflow: hidden;
+	padding: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	touch-action: manipulation;
+	transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+	user-select: none;
+	-webkit-user-select: none;
+	vertical-align: middle;
+	}
+	.senha {
+		align-items: center;
+		background-color: #0A66C2;
+		border: 0;
+		border-radius: 100px;
+		box-sizing: border-box;
+		color: #ffffff;
+		display: inline-flex;
+		font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+		font-size: 16px;
+		font-weight: 600;
+		justify-content: center;
+		line-height: 20px;
+		max-width: 480px;
+		min-height: 40px;
+		min-width: 0px;
+		overflow: hidden;
+		padding: 0px;
+		padding-left: 20px;
+		padding-right: 20px;
+		text-align: center;
+		touch-action: manipulation;
+		transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+		user-select: none;
+		-webkit-user-select: none;
+		vertical-align: middle;
+		}

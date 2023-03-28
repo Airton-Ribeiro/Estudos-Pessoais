@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-image: url(/assets/imgs/teste.jpg);
+}
+.nav-principal{
+    position: absolute;
+width: 1447px;
+height: 158px;
+left: 0px;
+top: 0px;
+
+}
+.base-central{
+    position: absolute;
+width: 100%;
+height: 1343px;
+left: -2px;
+top: 158px;
+
+background: url(/assets/imgs/Sem\ título.jpg), #1F2C36
+}
+.rodape{
+    position: absolute;
+width: 1440px;
+height: 288px;
+left: 0px;
+top: 1501px;
+background-image: url(/assets/imgs/teste.jpg);
+}
+.home-logo{
+    position: absolute;
+width: 138px;
+height: 94px;
+left: 72px;
+top: 32px;
+
+background: #FF0000;
+border-radius: 26px;
+}
+
+.login{
+    position: absolute;
+width: 125px;
+height: 45px;
+left: 115%;
+top: 55px;
+
+background: #FF0000;
+border-radius: 22.5px;
+}
+.cadastro{
+    position: absolute;
+width: 171px;
+height: 45px;
+left: 100%;
+top: 55px;
+
+background: #FF0000;
+border-radius: 22.5px;
+}
+.home.texto{
+    width: 105px;
+height: 66px;
+left: 89px;
+top: 48px;
+}

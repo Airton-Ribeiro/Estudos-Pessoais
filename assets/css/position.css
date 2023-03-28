@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pai{
+    height: 300vh;
+}
+
+.filha_1, .filha_2, .filha_3{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(255, 0, 0, 0.815);
+    margin: 10px;
+    position: static;
+}
+.filha_2{
+    background-color: greenyellow;
+    position: fixed;
+    top: 30%;
+    left: 0;
+    z-index: 1;
+}
+
+.filha_3{
+    background-color: blue;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.outra{
+    font-size: 50px;
+    background:white;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
